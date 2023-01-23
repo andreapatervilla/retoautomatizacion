@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name=":Verificar el ingreso correcto a la pagina saucedemo" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-23T14:54:51" hostname="CHMEPH5TMFL3" time="5.942">
+  <properties/>
+  <testcase name="Verificar ingreso correcto" classname=":Verificar el ingreso correcto a la pagina saucedemo" time="5.942"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 3076
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ene 23, 2023 9:54:54 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
